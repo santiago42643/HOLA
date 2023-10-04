@@ -86,8 +86,8 @@
     </form>
 </body>
 
-        <section id="Trabajos">
-		<h1><b><h1 id = “Trabajo” style="color: green; background: #000000; font-family: fantasy; font-size: 3em"> Trabajos: </h1></b> </h1>
+        <section>  <h1 id = “Trabajo” style="color: red; background: #000000; font-family: fantasy; font-size: 3em"> Trabajos </h1>
+
 		<article>
 
 		<h2>Repositor</h2>
