@@ -149,7 +149,4 @@
 		  
 		  
 		  <footer>© 2023 - santiago</footer>
-|		  
- 
-
 </html>    
