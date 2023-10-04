@@ -1,14 +1,13 @@
 <!DOCTYPE html>
 <html lang="es">
 <header>
-<img src="img/despertar.jpg"alt="logo" height="100px"
+<img src="img/despertar.jpg"alt="logo" height="100px">
 </header>
 
     <title>mi perfil</title> 
  <body>
  
 	
-<html>
 <head
 
     <title></title>
@@ -161,9 +160,4 @@
 |		  
  
 
-    </header>
-    <div class="container">
-        </ol>
-    </div>
-</body>
 </html>    
