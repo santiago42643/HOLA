@@ -78,7 +78,7 @@
     </form>
 </body>
 
-        <section>  <h1 id = “Trabajo” style="color: red; background: #000000; font-family: fantasy; font-size: 3em"> Trabajos </h1>
+        <section>  <h1 id = “Trabajo” style="color: red; background: `#0969DA`; font-family: fantasy; font-size: 3em"> Trabajos </h1>
 
 		<article>
 
